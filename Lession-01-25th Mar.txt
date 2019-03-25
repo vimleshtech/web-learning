@@ -1,0 +1,146 @@
+
+https://github.com/vimleshtech/web-learning
+=====================================================================
+
+Today's Topics
+===================
+->UI and UX 
+->HTML and HTML5
+->HTML tags / Web Eelement
+->Attribute of tags
+->HTML - Form design 
+
+
+UI(GUI) and UX 
+======================
+	UI : UserInterface			: Web
+	GUI: Graphical USer Interface		: Windows 	
+	CGI: Common gateway interface 		: Web
+
+
+	UX : User Expe. 
+		
+	
+
+Web Application Architecture
+==============================
+FrontEnd 
+		-UI : 
+				-HTML 
+				-CSS
+				-JS (Java Script)
+				-JQuery, AJax
+
+		-Server side language
+			-PHP
+			-Java
+			-C#.net
+			-Python 
+			-ROR
+			etc.			
+					
+
+BackEnd : Database
+		-My SQL Server
+		-MS SQL Server
+		-Oracle
+		-MongoDB
+		-SQLLite
+		etc.
+
+
+HTML and HTML5
+===================
+HTML : Hypertext markup language 
+	HTML5: 
+		inbuilt types 
+		->email		(validation)
+		->date		(validation)
+		->number 	(validation)	
+
+	-html should be saved with .htm or .hmtl extension 
+
+
+Editor (IDE - integrated development environment) :
+	-VSCode(Visual Studio Code)		: open source (MS)
+	-VisualStudio
+	-Sublime
+	-DreamViewer
+	-notepad
+	-notepad++
+	etc.
+		
+	
+
+Layout Tags:
+=============
+<>		: start 
+</>		: end 
+
+
+<html>
+	<head>
+		title
+		meta
+		css
+		js 
+	</head>
+	<body>
+			form
+			data control : textbox, button , etc.
+	</body>
+
+		
+</html>
+
+div		: division  , will take a row by default 
+			<div> hi-row1 </div> <div> hello-row2 </div>
+			
+		
+	p
+span		: block of content , will take same size of content 
+		<span> hi-row1 </span> <span> hello-row1 </span>
+	ul		: unordered list 
+	li		: list 
+	table		
+	tr		: table row
+	td		: table data 
+b		: bold 
+i		: italic 
+u		: underline 
+
+	strong
+
+h1		: header one
+h2		: header two 
+h3.
+
+...
+h6
+
+
+Data tags: Input and output
+----------------------------
+	input:
+			-textbox
+			-textera  
+			-button   
+			-submit
+			-checkbox
+			-radio
+			 Gender : <input type="radio" name="g" />Male 
+			    <input type="radio" name="g" />Female  
+				: Name should be same for single selection 
+	select : dropdown				
+	img 
+
+
+	
+CSS: cascading style sheet
+=============================
+Types:
+	-inline
+			style="color:blue;font-size:24px;"
+	-infile/internal
+	-external 
+	
